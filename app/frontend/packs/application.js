@@ -14,7 +14,7 @@ Rails.start()
 Turbolinks.start()
 ActiveStorage.start()
 
-
+import '../js/bootstrap_js_files.js'
 import magicAdd from '../js/magicAdd.js'
 
 let a = magicAdd(2, 4);
