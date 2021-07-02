@@ -1,8 +1,8 @@
-@import '../css/font_faces';
-@import "../css/custom.scss";
+@import "../css/templatemo";
 @import "~bootstrap/scss/bootstrap";
+@import '../css/font_faces';
+@import "../css/custom";
 
-h1 {
-  font-family: 'Asap';
-  text-decoration: underline;
-}
+
+//@import "~slick-carousel/slick/slick.scss";
+//@import "~slick-carousel/slick/slick-theme.scss";

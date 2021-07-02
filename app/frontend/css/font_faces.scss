@@ -1,6 +1,13 @@
 @font-face {
   font-family: 'Asap';
-  src: url('../font/Asap/Asap-VariableFont_wght.ttf') format('woff2 supports variations'),
-  url('../font/Asap/Asap-VariableFont_wght.ttf') format('woff2-variations');
+  src: url('../fonts/Asap/Asap-VariableFont_wght.ttf') format('woff2 supports variations'),
+  url('../fonts/Asap/Asap-VariableFont_wght.ttf') format('woff2-variations');
   font-weight: 100 1000;
+}
+
+@font-face {
+  font-family: 'Fa';
+  src: url('../fonts/fa-brands-400.ttf') format('woff2 supports variations'),
+  url('../fonts/fa-brands-400.ttf') format('woff2-variations');
+  font-weight: 100 1000 400 900;
 }
